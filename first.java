@@ -6,7 +6,5 @@ public class first{
         System.out.println("change by dev branch");
         System.out.print("hello by last line");
         System.out.println("change by dev using terminal merge");
-        System.out.println("change by main for conflict check");
-        
     }
 }
