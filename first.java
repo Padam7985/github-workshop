@@ -4,5 +4,7 @@ public class first{
         System.out.println("world");
         System.out.println("change by github");
         System.out.println("change by dev branch");
+        System.out.print("hello by last line");
+        System.out.println("change by dev using terminal merge");
     }
 }
